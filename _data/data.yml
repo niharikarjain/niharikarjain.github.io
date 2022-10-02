@@ -86,19 +86,19 @@ experiences:
         time: 2017
         company: AppviewX
         details: |
-        Developed, implemented and updated security policies supporting application 
-        migration, configuration and implementation as part of BAU (Business-as-usual) 
-        activities. 
+          Developed, implemented and updated security policies supporting application 
+          migration, configuration and implementation as part of BAU (Business-as-usual) 
+          activities. 
       - role: Junior Network Engineer
         time: 2016 - 2017
         company: Dreamworks Dedicated Unit 
         details: |
-        Maintenance and support of firewalls, VoIP, Proxy, Switches and related network infrastructure.
+          Maintenance and support of firewalls, VoIP, Proxy, Switches and related network infrastructure.
       - role: Junior Operation System Administrator
         time: 2013 - 2016
         company: Dreamworks Dedicated Unit 
         details: |
-        Supported daily operations of production systems and license servers primarily on Linux platform.
+          Supported daily operations of production systems and license servers primarily on Linux platform.
 
 skills:
     title: Skills &amp; Proficiency
